@@ -11,13 +11,30 @@ to build a model that can accurately predict which customers are likely to churn
 can take steps to prevent it.
 
 
+**Dataset**
+
+The dataset can be found on Kaggle.
+
+**Approach:**
+
+The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing.
+
+**Technical Aspect:**
+
+1)Cleaning the data by detecting outliers, deleting the null values, changing the format of some columns to correct format,etc.
+
+2)Visualizing the data using various modules such as Matplotlib and Seaborn.
+
+3)Built a Logistic Regression model and Evaluated the model using AUROC Score.
+
+
 **Requirements:**
 
 • Python 3.x
 
 • Jupyter Notebook or any other python environment
 
-• Libraries: pandas, numpy, seaborn, matplotlib, sklearn
+• Libraries: pandas, seaborn, matplotlib, sklearn.
 
 
 
