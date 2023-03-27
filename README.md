@@ -32,9 +32,11 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 
 • Python 3.x
 
-• Jupyter Notebook or any other python environment
+• Jupyter Notebook and Google Colab.
 
 • Libraries: pandas, seaborn, matplotlib, sklearn.
+
+
 
 
 
